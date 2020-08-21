@@ -19,6 +19,7 @@ int main()
     scanf("%d",&a);
     printf("DIGITE UM SEGUNDO NUMERO INTEIRO NEGATIVO OU POSITIVO:\n");
     scanf("%d",&b);
+    printf("-------------------------------------------------------\n");
     
     soma = a + b;
     subtracao = a - b;
