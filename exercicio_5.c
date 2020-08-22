@@ -15,7 +15,7 @@ int main()
     //ENTRADA
     printf("-------------------------------------------------------\n");
     printf("CALCULE DE AREA DE UM RETANGULO \n");
-    printf("DIGITE O TAMANHO DA BASE EM MENTROS: \n");
+    printf("DIGITE O TAMANHO DA BASE EM METROS: \n");
     scanf("%f",&b);
     printf("DIGITE O TAMANHO DA ALTURA EM METROS: \n");
     scanf("%f",&h);
