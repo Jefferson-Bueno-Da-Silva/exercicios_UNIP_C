@@ -12,10 +12,10 @@ int main()
 
     //ENTRADA
     printf("-------------------------------------------------------\n");
-    printf("CALCULADORA DE MÉDIA ARITIMETICA DE DOIS NUMERO\n");
-    printf("DIGITE UM NUMERO INTEIRO:\n");
+    printf("CALCULADORA DE MEDIA ARITIMETICA DE DOIS NUMERO\n");
+    printf("DIGITE UM NUMERO (INTEIRO OU REAL):\n");
     scanf("%f",&a);
-    printf("DIGITE UM SEGUNDO NUMERO INTEIRO:\n");
+    printf("DIGITE UM SEGUNDO NUMERO (INTEIRO OU REAL):\n");
     scanf("%f",&b);
     printf("-------------------------------------------------------\n");
     
