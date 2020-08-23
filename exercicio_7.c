@@ -10,7 +10,7 @@ PROGRAMA MOSTRA OS NÚMEROS NA ORDEM INVERSA. EX: DIGITOU: 1 2 3 4 MOSTRA:
 int main()
 {
     //DEFININFO VARIAVEIS
-    int seq[6], n1, n2, n3, n4;
+    int n1, n2, n3, n4;
 
     //ENTRADA
     printf("-------------------------------------------------------\n");
